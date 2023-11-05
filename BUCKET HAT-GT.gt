@@ -1,0 +1,86 @@
+[
+    {
+        "filename": "bucket-hat-white-3d-model-45428aac3f.jpg",
+        "obj_array": [
+            {
+                "bbox": "249,208,701,581",
+                "center": "600,498",
+                "color": "255,123.799,0",
+                "label": "bucket",
+                "label_index": 5,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "bucket-hat-white-3d-model-6abc68a83c.jpg",
+        "obj_array": [
+            {
+                "bbox": "272,282,652,439",
+                "center": "598,502",
+                "color": "255,123.799,0",
+                "label": "bucket",
+                "label_index": 5,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "bucket-hat-white-3d-model-8a12187c0a.jpg",
+        "obj_array": [
+            {
+                "bbox": "160,270,910,665",
+                "center": "615,602",
+                "color": "255,123.799,0",
+                "label": "bucket",
+                "label_index": 5,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "bucket-hat-white-3d-model-bdbde26a75.jpg",
+        "obj_array": [
+            {
+                "bbox": "173,236,889,706",
+                "center": "618,589",
+                "color": "255,123.799,0",
+                "label": "bucket",
+                "label_index": 5,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "bucket-hat-white-3d-model-c8295322c8.jpg",
+        "obj_array": [
+            {
+                "bbox": "208,203,793,530",
+                "center": "604,468",
+                "color": "255,123.799,0",
+                "label": "bucket",
+                "label_index": 5,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    },
+    {
+        "filename": "bucket-hat-white-3d-model-dd27cf11cc.jpg",
+        "obj_array": [
+            {
+                "bbox": "183,188,795,619",
+                "center": "580,498",
+                "color": "255,123.799,0",
+                "label": "bucket",
+                "label_index": 5,
+                "landmark": "",
+                "landmark_len": 0
+            }
+        ]
+    }
+]
